@@ -1,4 +1,4 @@
 AES-128
 =======
 
-Text encryptor
+Text encrypton, working on Qt.
